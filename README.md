@@ -8,6 +8,10 @@ This repo documents the TouchDesigner prototyping process, including an early mu
 
 <img src="final-js-version/media/fingerpainting3.gif" width="70%">
 
+## My Role
+
+Consultant, project manager, and developer on this initiative — spanning interactive design, TouchDesigner prototyping, and the eventual browser-based implementation.
+
 ## Iterations
 
 - [`01-audio-fingerpaint-2021/`](01-audio-fingerpaint-2021/) — earliest audio-reactive fingerpainting prototype
