@@ -11,7 +11,7 @@ This repo documents the TouchDesigner prototyping process, including an early mu
 ## Credits
 
 - **Elle Spencer Lewis** — consultant, project manager, and developer on this initiative, spanning interactive design, TouchDesigner prototyping, and the eventual browser-based implementation
-- **Azaria Fowler** — co-developer
+- **[Azaria Fowler](https://github.com/ahfowler)** — co-developer
 
 ## Iterations
 
